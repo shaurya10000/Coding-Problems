@@ -1,3 +1,7 @@
+https://leetcode.com/problems/friend-circles/
+Time Complexity for DFS/ BFS/ Union Find:
+https://leetcode.com/problems/friend-circles/solution/
+
 // Union find with weight:
 // Path compression is also being used
 // This solution takes 2ms for execution.
